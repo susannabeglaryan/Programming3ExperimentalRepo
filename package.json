@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hanumanum/test-heroku-gol.git"
+    "url": "git+https://github.com/susannabeglaryan/Programming3"
   },
-  "author": "hanuman",
+  "author": "susannabeglaryan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hanumanum/test-heroku-gol/issues"
